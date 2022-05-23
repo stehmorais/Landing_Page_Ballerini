@@ -26,7 +26,7 @@ Essa Landing Page foi feita utilizando as seguintes tecnologias:
 <br>
 
 ## Como visualizar o projeto?
-Através do link 
+Através do link https://stehmorais.github.io/Landing_Page_Ballerini/
 
 <br>
 
@@ -57,7 +57,7 @@ This Landing Page was made using the following technologies:
 <br>
 
 ## How to view the project?
-It's avaliable on 
+It's avaliable on https://stehmorais.github.io/Landing_Page_Ballerini/
 
 <br> 
 
